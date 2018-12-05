@@ -5,9 +5,7 @@
 
 
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* Didnt succussfully test these components
 
 #### UML
-Link to an image of the UML for your application and response to events
+![UML](assets/remote-crud-uml.jpg)
